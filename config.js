@@ -1,0 +1,9 @@
+export const LANES = [-2, 0, 2];
+export const OBSTACLE_SPEED = 0.03;
+export const SPAWN_MS = 1500;
+export const SPAWN_Z = -30;
+export const PASS_Z = 3;
+export const HIT_DIST_X = 0.8;
+export const HIT_DIST_Z = 1.2;
+export const JUMP_HEIGHT = 2.5;
+export const JUMP_DURATION = 600;
